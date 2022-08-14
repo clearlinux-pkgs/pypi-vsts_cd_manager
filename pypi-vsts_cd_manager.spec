@@ -4,7 +4,7 @@
 #
 Name     : pypi-vsts_cd_manager
 Version  : 1.0.2
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/fc/cd/29c798a92d5f7a718711e4beace03612c93ad7ec2121aea606d8abae38ee/vsts-cd-manager-1.0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/cd/29c798a92d5f7a718711e4beace03612c93ad7ec2121aea606d8abae38ee/vsts-cd-manager-1.0.2.tar.gz
 Summary  : Python wrapper around some of the VSTS APIs
